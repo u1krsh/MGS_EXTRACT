@@ -4,7 +4,7 @@
  * Reads bone matrices directly from game memory instead of GPU.
  * This DLL injects into MGS2 and scans for bone matrix arrays.
  */
-
+// things are still broken
 #include <windows.h>
 #include <iostream>
 #include <fstream>
