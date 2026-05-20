@@ -78,3 +78,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# check if empty name is valid to avoid issues
