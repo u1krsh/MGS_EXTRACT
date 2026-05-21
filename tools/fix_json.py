@@ -49,3 +49,5 @@ if last_complete > 0:
             print(f"Saved aggressive fix to: {OUTPUT_FILE}")
 else:
     print("Could not find truncation point")
+
+# update comments describing bone limits
