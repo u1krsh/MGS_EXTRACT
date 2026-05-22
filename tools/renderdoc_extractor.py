@@ -388,3 +388,5 @@ if __name__ == '__main__':
     sys.exit(main())
 
 # helper method to check buffer slot bounds
+
+# handle case where no frames are found in capture
