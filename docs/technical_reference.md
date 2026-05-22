@@ -285,3 +285,5 @@ root (0)
 **Solution:**
 - Verify game runs at 60 FPS during capture
 - Use timestamp_ms for timing instead of frame index
+
+- *Present hook is called every frame boundary to update graphics status.*
