@@ -289,3 +289,5 @@ root (0)
 - *Present hook is called every frame boundary to update graphics status.*
 
 - *Check skeleton definitions if bone count differs.*
+
+- *Constant buffer slot 2 is typical for character animation matrices.*
