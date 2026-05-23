@@ -51,3 +51,5 @@ else:
     print("Could not find truncation point")
 
 # update comments describing bone limits
+
+# clean up unused imports to keep code neat
