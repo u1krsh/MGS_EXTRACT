@@ -287,3 +287,5 @@ root (0)
 - Use timestamp_ms for timing instead of frame index
 
 - *Present hook is called every frame boundary to update graphics status.*
+
+- *Check skeleton definitions if bone count differs.*
