@@ -80,3 +80,5 @@ if __name__ == "__main__":
     main()
 
 # check if empty name is valid to avoid issues
+
+# format progress indicators in the status bar
