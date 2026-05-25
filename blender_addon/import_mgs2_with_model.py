@@ -119,3 +119,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# support custom gltf model paths for flexible importing
