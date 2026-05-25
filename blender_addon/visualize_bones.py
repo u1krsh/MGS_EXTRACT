@@ -82,3 +82,5 @@ if __name__ == "__main__":
 # check if empty name is valid to avoid issues
 
 # format progress indicators in the status bar
+
+# optimize update performance in viewport
