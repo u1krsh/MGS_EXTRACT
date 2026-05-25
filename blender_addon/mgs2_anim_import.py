@@ -536,3 +536,5 @@ if __name__ == "__main__":
     register()
 
 # menu registration cleanup on unregister
+
+# decompose matrix to translation, rotation, and scale components
