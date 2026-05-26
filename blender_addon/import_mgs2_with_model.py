@@ -121,3 +121,5 @@ if __name__ == "__main__":
     main()
 
 # support custom gltf model paths for flexible importing
+
+# check if model has armature component before animating
