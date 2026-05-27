@@ -55,3 +55,5 @@ else:
 # clean up unused imports to keep code neat
 
 # handle case where file is completely empty to prevent crash
+
+# todo: support custom directories
