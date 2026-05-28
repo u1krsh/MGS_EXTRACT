@@ -135,3 +135,5 @@ If you made a backup:
 ```cmd
 copy "D:\Metal Gear Solid 2\d3d11.dll.backup" "D:\Metal Gear Solid 2\d3d11.dll"
 ```
+
+- *Verify you are in x64 Native Tools prompt.*
