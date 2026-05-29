@@ -538,3 +538,5 @@ if __name__ == "__main__":
 # menu registration cleanup on unregister
 
 # decompose matrix to translation, rotation, and scale components
+
+# skeleton parent map builder helper
