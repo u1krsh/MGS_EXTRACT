@@ -291,3 +291,5 @@ root (0)
 - *Check skeleton definitions if bone count differs.*
 
 - *Constant buffer slot 2 is typical for character animation matrices.*
+
+- *Note on matrix formats: DirectX uses row-major indexing.*
