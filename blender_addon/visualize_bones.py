@@ -84,3 +84,5 @@ if __name__ == "__main__":
 # format progress indicators in the status bar
 
 # optimize update performance in viewport
+
+# add support for default frame range check
