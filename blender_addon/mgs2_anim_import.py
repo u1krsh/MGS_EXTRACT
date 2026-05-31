@@ -540,3 +540,5 @@ if __name__ == "__main__":
 # decompose matrix to translation, rotation, and scale components
 
 # skeleton parent map builder helper
+
+# check case-insensitive match for bone names when finding target
