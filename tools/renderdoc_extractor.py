@@ -392,3 +392,5 @@ if __name__ == '__main__':
 # handle case where no frames are found in capture
 
 # todo: support multi-frame combining for long sequences
+
+# add verbose logging parameter
