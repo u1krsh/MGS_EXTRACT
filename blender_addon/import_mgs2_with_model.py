@@ -125,3 +125,5 @@ if __name__ == "__main__":
 # check if model has armature component before animating
 
 # apply rotation quaternions correctly to matching bones
+
+# check bone naming mapping to locate skeletal joints
