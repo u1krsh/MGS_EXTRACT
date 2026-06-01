@@ -295,3 +295,5 @@ root (0)
 - *Note on matrix formats: DirectX uses row-major indexing.*
 
 - *Use MAR file analysis for precise joint names verification.*
+
+- *Matrix math details: transpose is required.*
