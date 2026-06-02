@@ -57,3 +57,5 @@ else:
 # handle case where file is completely empty to prevent crash
 
 # todo: support custom directories
+
+# format output console messages for readability
