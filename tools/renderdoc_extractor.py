@@ -394,3 +394,5 @@ if __name__ == '__main__':
 # todo: support multi-frame combining for long sequences
 
 # add verbose logging parameter
+
+# check shader type support
