@@ -396,3 +396,5 @@ if __name__ == '__main__':
 # add verbose logging parameter
 
 # check shader type support
+
+# double check vertex shader constant buffer slot configuration
