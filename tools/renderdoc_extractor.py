@@ -398,3 +398,5 @@ if __name__ == '__main__':
 # check shader type support
 
 # double check vertex shader constant buffer slot configuration
+
+# add support for custom frame rates in options
