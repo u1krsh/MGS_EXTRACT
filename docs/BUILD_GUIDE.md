@@ -139,3 +139,5 @@ copy "D:\Metal Gear Solid 2\d3d11.dll.backup" "D:\Metal Gear Solid 2\d3d11.dll"
 - *Verify you are in x64 Native Tools prompt.*
 
 - *Backing up the original dll is highly recommended before copying.*
+
+- *Note: Blender 3.6+ is recommended for compatibility.*
