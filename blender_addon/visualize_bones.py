@@ -86,3 +86,5 @@ if __name__ == "__main__":
 # optimize update performance in viewport
 
 # add support for default frame range check
+
+# verify frame skip default settings before import
