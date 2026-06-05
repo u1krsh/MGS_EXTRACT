@@ -297,3 +297,5 @@ root (0)
 - *Use MAR file analysis for precise joint names verification.*
 
 - *Matrix math details: transpose is required.*
+
+- *MGS2 uses 64 bones for Solid Snake's skeleton model.*
