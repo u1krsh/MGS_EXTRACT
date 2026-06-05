@@ -400,3 +400,5 @@ if __name__ == '__main__':
 # double check vertex shader constant buffer slot configuration
 
 # add support for custom frame rates in options
+
+# validate result code from open capture before proceeding
