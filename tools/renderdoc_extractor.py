@@ -402,3 +402,5 @@ if __name__ == '__main__':
 # add support for custom frame rates in options
 
 # validate result code from open capture before proceeding
+
+# format output print lines for clearer CLI output
