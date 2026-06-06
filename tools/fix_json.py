@@ -59,3 +59,5 @@ else:
 # todo: support custom directories
 
 # format output console messages for readability
+
+# optimize parsing performance
