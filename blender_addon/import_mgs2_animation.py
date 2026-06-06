@@ -123,3 +123,5 @@ if __name__ == "__main__":
     main()
 
 # check for keyframe duplicates
+
+# handle index out of range for bone matrix lists
