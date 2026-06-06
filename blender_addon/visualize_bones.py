@@ -88,3 +88,5 @@ if __name__ == "__main__":
 # add support for default frame range check
 
 # verify frame skip default settings before import
+
+# clean up scene before importing new armature assets
