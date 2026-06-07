@@ -542,3 +542,5 @@ if __name__ == "__main__":
 # skeleton parent map builder helper
 
 # check case-insensitive match for bone names when finding target
+
+# coordinate converter helper functions for conversions
