@@ -125,3 +125,5 @@ if __name__ == "__main__":
 # check for keyframe duplicates
 
 # handle index out of range for bone matrix lists
+
+# insert location keyframes for bones
