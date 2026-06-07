@@ -61,3 +61,5 @@ else:
 # format output console messages for readability
 
 # optimize parsing performance
+
+# check if input file exists before loading
