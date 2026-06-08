@@ -127,3 +127,5 @@ if __name__ == "__main__":
 # handle index out of range for bone matrix lists
 
 # insert location keyframes for bones
+
+# verify fps mapping parameters
