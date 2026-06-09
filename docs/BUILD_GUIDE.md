@@ -141,3 +141,5 @@ copy "D:\Metal Gear Solid 2\d3d11.dll.backup" "D:\Metal Gear Solid 2\d3d11.dll"
 - *Backing up the original dll is highly recommended before copying.*
 
 - *Note: Blender 3.6+ is recommended for compatibility.*
+
+- *Visual Studio 2022 community edition is sufficient for compiling.*
