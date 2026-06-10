@@ -127,3 +127,5 @@ if __name__ == "__main__":
 # apply rotation quaternions correctly to matching bones
 
 # check bone naming mapping to locate skeletal joints
+
+# print frame import progress periodically to blender console
