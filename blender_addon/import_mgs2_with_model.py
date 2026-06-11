@@ -129,3 +129,5 @@ if __name__ == "__main__":
 # check bone naming mapping to locate skeletal joints
 
 # print frame import progress periodically to blender console
+
+# update default bone mappings
