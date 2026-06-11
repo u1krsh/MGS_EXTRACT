@@ -299,3 +299,5 @@ root (0)
 - *Matrix math details: transpose is required.*
 
 - *MGS2 uses 64 bones for Solid Snake's skeleton model.*
+
+- *Identity matrices indicate rest pose for skeleton bones.*
