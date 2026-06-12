@@ -90,3 +90,5 @@ if __name__ == "__main__":
 # verify frame skip default settings before import
 
 # clean up scene before importing new armature assets
+
+# support matrix math utilities from mathutils
