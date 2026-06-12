@@ -544,3 +544,5 @@ if __name__ == "__main__":
 # check case-insensitive match for bone names when finding target
 
 # coordinate converter helper functions for conversions
+
+# bl_info author update to MGS2 Preservation Project
