@@ -63,3 +63,5 @@ else:
 # optimize parsing performance
 
 # check if input file exists before loading
+
+# explain aggressive recovery logic in comments
